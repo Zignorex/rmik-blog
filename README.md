@@ -1,4 +1,4 @@
-<h1 align=center> ** RMIK ** </h1>
+<h1 align=center> <strong>RMIK</strong> </h1>
 <p align=Center>
 Made By Agum
 </p>
